@@ -6,7 +6,6 @@ excerpt: 'keywords: transfer learning, meta-learning, few-shot and zero-shot lea
 date: 2022-02-02
 venue: 'Chemical Engineering Science'
 paperurl: 'https://doi.org/10.1016/j.ces.2021.117190'
-citation: 'Guilherme Lindner, Sai Shi, Slobodan Vučetić, Sanja Mišković. (2022). &quot;Transfer learning for radioactive particle tracking.&quot; <i>Chemical Engineering Science</i>. Volume 248, Part B, 117190, ISSN 0009-2509.'
 ---
 Radioactive particle tracking (RPT) is a non-invasive technique used to monitor opaque multiphase flow systems.
 Achieving highly accurate particle tracing is challenging and time-consuming because of the need to build a new RPT model from calibration data each time the experimental conditions change.
