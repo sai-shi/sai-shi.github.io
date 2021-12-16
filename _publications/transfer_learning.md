@@ -1,7 +1,7 @@
 ---
 title: "Transfer learning for radioactive particle tracking"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/transfer_learning
 excerpt: 'Radioactive particle tracking (RPT) is a non-invasive technique used to monitor opaque multiphase flow systems.
 Achieving highly accurate particle tracing is challenging and time-consuming because of the need to build a new RPT model from calibration data each time the experimental conditions change.
 This paper aims to examine if RPT calibration data under previous conditions can be leveraged with the help of transfer learning (TL) when creating an RPT model for a new condition.  
