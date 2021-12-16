@@ -8,5 +8,5 @@ date: 2020-09-01
 location: "Philadelphia, USA"
 ---
 
-Mentored students in understanding concepts of data structures (array, linked list, tree, graph, etc.) and algorithms (sorting, binary search, etc.)
-[Course Website](https://templeu.instructure.com/courses/83727)
+Mentored students in understanding concepts of data structures (array, linked list, tree, graph, etc.) and algorithms (sorting, binary search, etc.) \
+[course link](https://templeu.instructure.com/courses/83727)
