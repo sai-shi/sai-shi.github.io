@@ -12,7 +12,7 @@ The results show that when it is impractical to collect a lot of calibration dat
 
 Under the scenario of distinct data distribution between source and target data, we investigated the applicability of meta-learning techniques (MAML, Reptile, Meta-SGD), it is shown the results are comparable with simply fine-tuning a pretrained FNN model. 
 
-<a href="https://github.com/sai-shi/sai-shi.github.io/blob/master/files/tl_paper.pdf" target="_blank">Download paper.</a>
+<a href="https://drive.google.com/file/d/1lul899hWwP47fghHDYFxJe6OvZcbzgXm/view?usp=sharing" target="_blank">Download paper</a>
 
 Recommended citation: Guilherme Lindner, Sai Shi, Slobodan Vučetić, Sanja Mišković. (2022). "Transfer learning for radioactive particle tracking" <i>Chemical Engineering Science</i>. Volume 248, Part B, 117190, ISSN 0009-2509.
 
