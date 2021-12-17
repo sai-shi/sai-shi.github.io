@@ -1,9 +1,10 @@
 ---
 title: "Transfer Learning in radioactive particle tracking"
 excerpt: "Keywords: tranfer learning, few-show learning, zero-shot learning, meta learning, chemical engineering. <br/><img src='/images/placement.png'>"
-[Source Code](https://github.com/sai-shi/Transfer-Learning-of-radioactive-particle-tracking)
 collection: research
 ---
+
+[Source Code](https://github.com/sai-shi/Transfer-Learning-of-radioactive-particle-tracking)
 
 In this [paper](https://doi.org/10.1016/j.ces.2021.117190), we show that it is possible to reduce the errors and costs associated with the current RPT modeling practices through the application of Transfer Learning approach based on the availability of different historical RPT calibration data. Two machine learning techniques, SVR and FNN, and several distinct TL strategies were tested and their effectiveness in exploiting historical calibration data was evaluated. 
 
