@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Sai, a Ph.D. student in Computer Science at [Temple University](https://cis.temple.edu/academics/graduate/phd/), under supervision of Prof. [Slobodan Vucetic](https://dabi.temple.edu/slobodan-vucetic/). I am excited about solving open data science problems using machine learning and statistical methodologies. 
 
-[CV](https://github.com/sai-shi/sai-shi.github.io/blob/master/files/sai_shi_CV.pdf)
+<a href="username.github.io/folder/document.pdf" target="_blank">My CV</a>
 
 Research Interests
 ======
