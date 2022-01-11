@@ -14,9 +14,9 @@ Hi! I am Sai, a Ph.D. student in Computer Science at [Temple University](https:/
 
 Research Interests
 ======
-In general, I am interested in solving real-life data science problems in various fields: Communication Networks, Chemicals, Natural Language Processing, and Computer Vision. My research focus is answering the question: how to apply/optimize machine learning algorithms to practical scenarios for better decision making and problem solving given limited resources (available data, domain knowledge, computing hardware, etc.).
+I am interested in solving real-life data science problems in various fields: Communication Networks, Physical Science, Natural Language Processing, and Computer Vision. My research focus is answering the question: how to apply/optimize machine learning algorithms and statistical methodologies to practical scenarios for better decision making and problem solving given limited resources (available data, domain knowledge, computing hardware, etc.).
 
-Current research projects include: transfer learning, few-shot/zero-shot learning, distribution alignment, generative models, university ranking.
+Current research projects include: transfer learning, few-shot learning, distribution alignment, generative models, feature selection, university ranking.
 
 Education
 ======
@@ -30,8 +30,7 @@ Work experience
 ======
 * Sep. 2019 - Now: Research Assistant
   * Temple University
-  * Duties included: research on data science projects, contributed mentoring support to undergraduate in their research projects
-  * Supervisor: Professor Slobodan Vucetic
+  * Duties included: research on data science projects, focusing on applied machine learning, transfer learning and ranking analysis
 
 * Sep. 2019 - Now: Teaching Assistant
   * Temple University
