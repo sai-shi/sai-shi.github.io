@@ -26,13 +26,17 @@ Education
 
 Work experience
 ======
-* Sep. 2019 - Now: Research and Teaching Assistant                   Temple University, Philadelphia, PA
-  * Research on data science projects, focusing on applied machine learning, transfer learning and ranking analysis;
-  * Assisted and mentored students in their lab sections of several courses.
+* Sep. 2019 - Now: Research and Teaching Assistant                   
+- Temple University, Philadelphia, PA
+  * Research on data science projects, focusing on applied machine learning, transfer learning and ranking analysis
+  * Assisted and mentored students in their lab sections of several courses
 
 
-* March 2019 - Sep 2019: Machine Learning Engineer                   [AsiaInfo](https://www.asiainfo.com/en_us/index.html), Beijing, China
-  * Duties included: cleaned customer data and implemented Machine Learning models for 5G networks
+* March 2019 - Sep 2019: Machine Learning Engineer                   
+- [AsiaInfo](https://www.asiainfo.com/en_us/index.html), Beijing, China
+  * Cleaned customer data and implemented Machine Learning models for 5G networks
+  * Detected 80% of root cause among system alerts based on DBSCAN and FP-growth algorithms
+  * Documented and reported data analysis results to the clients of the company
 
  
 Skills
