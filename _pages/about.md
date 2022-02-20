@@ -28,7 +28,7 @@ Work experience
 ======
 * Sep. 2019 - Now: Research and Teaching Assistant (Temple University, Philadelphia, PA)                  
   * Research on data science projects, focusing on applied machine learning, transfer learning and ranking analysis
-  * Assisted and mentored students in their lab sections of several courses
+  * Assisted and mentored students in their lab sections of several [courses](https://sai-shi.github.io/teaching/)
 
 
 * March 2019 - Sep 2019: Machine Learning Engineer ([AsiaInfo](https://www.asiainfo.com/en_us/index.html), Beijing, China)                   
