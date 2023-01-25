@@ -26,6 +26,11 @@ Education
 
 Work experience
 ======
+* May 2022 - August 2022: Research Intern ([NEC Laboratories America, Inc.](https://www.nec-labs.com/), Princeston, NJ)                   
+  * Performed data cleaning, feature extraction, and data analysis on collected optical fiber sensing data
+  * Deployed ML models for rain intensity classification task
+  * Improved baseline accuracy by 8% using unsupervised domain adaptation
+
 * Sep. 2019 - Now: Research and Teaching Assistant (Temple University, Philadelphia, PA)                  
   * Research on data science projects, focusing on applied machine learning, transfer learning and ranking analysis
   * Assisted and mentored students in their lab sections of several [courses](https://sai-shi.github.io/teaching/)
