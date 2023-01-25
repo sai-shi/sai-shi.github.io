@@ -16,7 +16,7 @@ Research Interests
 ======
 I am interested in solving real-life data science problems in various fields: Communication Networks, Physical Science, Natural Language Processing, and Computer Vision. My research focus is answering the question: how to apply/optimize machine learning algorithms to practical scenarios for better decision making and problem solving given limited resources (available data, domain knowledge, computing hardware, etc.).
 
-Current research projects include: transfer learning, meta-learning, distribution alignment, generative modeling, ranking analysis.
+Current research projects include: transfer learning, meta-learning, domain adaptation, model compression, ranking analysis.
 
 Education
 ======
