@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Sai, a Ph.D. student in Computer Science at [Temple University](https://cis.temple.edu/academics/graduate/phd/), under supervision from Prof. [Slobodan Vucetic](https://dabi.temple.edu/slobodan-vucetic/). 
 
-<a href="https://drive.google.com/file/d/1ZNl5CXZpZm4TqR42hwRBPDEC_wBdT_jc/view?usp=share_link" target="_blank">My CV</a>
+<a href="https://drive.google.com/file/d/1ZNl5CXZpZm4TqR42hwRBPDEC_wBdT_jc/view?usp=drive_link" target="_blank">My CV</a>
 
 Research Interests
 ======
@@ -42,12 +42,12 @@ Work experience
  
 Skills
 ======
-* MySQL
+* SQL
 * Python
   * Tensorflow
   * Keras
   * Pytorch
-* Git
+* R
 * Matlab
 * Tableau
 * Spreadsheets
