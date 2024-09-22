@@ -1,7 +1,7 @@
 ---
 title: "Fiber Optic Sensing in Rain Detection Using Unsupervised Domain Adaptation"
 collection: publications
-permalink: /publication/nec-2.md
+permalink: /publication/nec-2
 excerpt: 'keywords: Fiber networks; Fiber optic communications; Fiber optic sensors; Neural networks; Optical fibers; Optical networks'
 date: 2024-06-02
 venue: 'Galileo conference: Fibre Optic Sensing in Geosciences'
