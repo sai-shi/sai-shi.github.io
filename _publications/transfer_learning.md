@@ -1,7 +1,7 @@
 ---
 title: "Transfer learning for radioactive particle tracking"
 collection: publications
-permalink: /publication/transfer_learning.md
+permalink: /publication/transfer_learning
 excerpt: 'keywords: transfer learning, domain adaptation, meta-learning, few-shot learning'
 date: 2022-02-02
 venue: 'Chemical Engineering Science'
