@@ -1,7 +1,7 @@
 ---
 title: "Beyond Communication: Telecom Fiber Networks for Rain Detection and Classification"
 collection: publications
-permalink: /publication/nec-1.md
+permalink: /publication/nec-1
 excerpt: 'keywords: Fiber networks; Fiber optic communications; Fiber optic sensors; Neural networks; Optical fibers; Optical networks'
 date: 2023-08-02
 venue: '28th International Conference on Optical Fiber Sensors'
