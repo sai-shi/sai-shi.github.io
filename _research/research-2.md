@@ -1,6 +1,6 @@
 ---
 title: "Ranking system of computer science departments"
-excerpt: "Keywords: ranking, subjectivity, correlation, computer science. <br/><img src='/images/correlation.png'>"
+excerpt: "Keywords: ranking, subjectivity, correlation, computer science."
 collection: research
 ---
 Research question I:  What is the importance of different subjective decisions for department ranking, such as handling multi-author publications, inclusion criteria for publications and publication venues, accounting for the quality of publication venues, and accounting for the sub-areas of computer science? 
