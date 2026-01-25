@@ -14,7 +14,7 @@ Hi! I am Sai, a Ph.D. student in Computer Science at [Temple University](https:/
 
 Research Interests
 ======
-My current research focused on applied machine learning, which is to use existing algorithms and models to address specific tasks across various industries, including wireless, physics, rankings, etc. I am particularly interested in transfer learning, domain adaptation, efficient AI, and lifelong learning algorithms. My research focus is answering the question: how to apply/optimize machine learning algorithms to practical scenarios for better decision making and problem solving given limited resources (available data, domain knowledge, computing hardware, etc.).
+My research focuses on building efficient, generalizable, and scalable machine learning systems under real-world constraints such as limited labeled data, domain shift, and computational resource limitations. I am particularly interested in weak and active learning, domain adaptation and few-shot learning, and resource-efficient AI (e.g., model compression and feature selection). My work bridges scientific and social domains, including wireless sensing, remote sensing, and large-scale educational text analysis, with the goal of designing adaptive learning frameworks that enable reliable decision making from noisy, diverse, and data-scarce environments.
 
 Education
 ======
@@ -28,7 +28,7 @@ Work experience
   * Improved forecasting accuracy by 100 basis points through a dual ensemble learning framework capturing temporal and spatial patterns
   * Built a production-ready forecasting pipeline with optimized parallelization and memory management
     
-* May 2022 - August 2022: Research Scientist Intern ([NEC Laboratories America, Inc.](https://www.nec-labs.com/), Princeston, NJ)                   
+* May 2022 - August 2022: Research Scientist Intern ([NEC Laboratories America](https://www.nec-labs.com/), Princeston, NJ)                   
   * Performed large-scale data preprocessing and feature engineering for optical fiber sensing signals
   * Developed CNN models for rain-intensity classification in dynamic environments
   * Improved baseline model accuracy by 8% through transfer learning
@@ -40,16 +40,7 @@ Work experience
  
 Skills
 ======
-* SQL
-* Python
-  * Tensorflow
-  * Keras
-  * Pytorch
-* R
-* Matlab
-* Tableau
-* Spreadsheets
-* MongoDB
-* Django
-* Amazon Web Services (AWS)
-* Java
+* Programming Languages: Python, SQL, R, MATLAB, C++
+* Machine Learning Frameworks: PyTorch, Scikit-learn, Pandas, NumPy, Nixtla, SKTime
+* Tools: Git, Docker, Tableau, PowerBI, Google Spreadsheets
+* Platforms: Linux, AWS (EC2, S3, Batch), Google Cloud, Google Colab
