@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Sai, a Ph.D. student in Computer Science at [Temple University](https://cis.temple.edu/academics/graduate/phd/), under supervision from Prof. [Slobodan Vucetic](https://dabi.temple.edu/slobodan-vucetic/). 
 
-<a href="https://drive.google.com/file/d/1ZNl5CXZpZm4TqR42hwRBPDEC_wBdT_jc/view?usp=drive_link" target="_blank">My CV</a>
+<a href="https://drive.google.com/file/d/105vV2-9ka3AgKoQ_DhfWlKxvUyHE48Le/view?usp=sharing" target="_blank">My CV</a>
 
 Research Interests
 ======
@@ -18,26 +18,24 @@ My current research focused on applied machine learning, which is to use existin
 
 Education
 ======
-* M.S. in Electrical Engineering, University of California - Irvine, 2013-2015 (GPA: 3.6/4.0)
 * M.S. in Computer Engineering, Arizona State University, 2016-2018 (GPA: 3.7/4.0)
-* Ph.D in Computer Science, Temple University, 2019-2024 (GPA: 3.7/4.0)
+* Ph.D in Computer Science, Temple University, 2019-2025 (GPA: 3.7/4.0)
 
 Work experience
 ======
-* May 2022 - August 2022: Research Intern ([NEC Laboratories America, Inc.](https://www.nec-labs.com/), Princeston, NJ)                   
-  * Conducted data cleaning and feature extraction to ensure reliability of collected optical fiber sensing data
-  * Deployed convolutional neural networks for rain intensity classification
-  * Improved baseline accuracy by 8% using unsupervised domain adaptation
-
-* Sep. 2019 - Now: Research and Teaching Assistant (Temple University, Philadelphia, PA)                  
-  * Research on data science projects, focusing on applied machine learning, transfer learning and ranking analysis
-  * Assisted and mentored students in their lab sections of several [courses](https://sai-shi.github.io/teaching/)
-
+* July 2025 - November 2025: Applied Scientist Intern ([Amazon](https://www.amazon.science/), Bellevue, WA)                   
+  * Designed and implemented scalable machine learning models to optimize demand planning for large-scale logistics systems
+  * Improved forecasting accuracy by 100 basis points through a dual ensemble learning framework capturing temporal and spatial patterns
+  * Built a production-ready forecasting pipeline with optimized parallelization and memory management
+    
+* May 2022 - August 2022: Research Scientist Intern ([NEC Laboratories America, Inc.](https://www.nec-labs.com/), Princeston, NJ)                   
+  * Performed large-scale data preprocessing and feature engineering for optical fiber sensing signals
+  * Developed CNN models for rain-intensity classification in dynamic environments
+  * Improved baseline model accuracy by 8% through transfer learning
 
 * March 2019 - Sep 2019: Machine Learning Engineer ([AsiaInfo](https://www.asiainfo.com/en_us/index.html), Beijing, China)                   
-  * Designed and implemented the intelligent alert-warning system of 5G network
-  * Implemented DBSCAN and FP-growth to detect 80% of root cause among system alerts
-  * Documented and presented work directly to CTO and the clients 
+  * Built an AI-based alerting system for 5G networks using pattern mining, increasing anomaly detection by 5%
+  * Collaborated with product teams to integrate ML modules into production workflows
 
  
 Skills
