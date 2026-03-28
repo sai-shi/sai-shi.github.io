@@ -3,7 +3,7 @@ title: "Towards a Unified Few-Shot Learning Evaluation Framework for RF Fingerpr
 collection: publications
 permalink: /publication/ablation
 excerpt: 'keywords: RF fingerprinting, deep learning, transfer learning, domain adaptation, meta-learning'
-date: 2025-08
+date: 2025-08-29
 venue: 'ICCCN'
 paperurl: 
 ---
