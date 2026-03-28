@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 * E-mail: sai.shi [at] temple.edu
-* LinkedIn: [saishi](http://www.linkedin.com/in/sai-shi)
-* Google scholar: [saishi](https://scholar.google.com/citations?user=hojC_AgAAAAJ&hl=en)
+* LinkedIn: [http://www.linkedin.com/in/sai-shi](http://www.linkedin.com/in/sai-shi)
+* Google scholar: [https://scholar.google.com/citations?user=hojC_AgAAAAJ&hl=en](https://scholar.google.com/citations?user=hojC_AgAAAAJ&hl=en)
 
