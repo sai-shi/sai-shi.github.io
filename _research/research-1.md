@@ -1,5 +1,5 @@
 ---
-title: "Optimized radioactive particle tracking using machine learning"
+title: "Research Project I: Optimized radioactive particle tracking using machine learning"
 excerpt: "Keywords: tranfer learning, few-show learning, meta learning, feature selection."
 collection: research
 ---
