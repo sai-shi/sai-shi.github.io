@@ -1,6 +1,5 @@
 ---
 title: "Data-efficient and adaptive machine learning methods for next-generation wireless spectrum systems"
-"
 excerpt: "Keywords: rf fingerprinting, wireless network, domain shift, transfer learning."
 collection: research
 ---
