@@ -1,6 +1,6 @@
 ---
-title: "Resource-efficient radioactive particle tracking using transfer learning and feature selection"
-excerpt: "Keywords: tranfer learning, few-show learning, zero-shot learning, meta learning, feature selection."
+title: "Optimized radioactive particle tracking using machine learning"
+excerpt: "Keywords: tranfer learning, few-show learning, meta learning, feature selection."
 collection: research
 ---
 
